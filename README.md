@@ -1,6 +1,7 @@
 # splashly
 
 # Splashly (Flutter)
+Search for images then tap on image on list to open in web-browser.
 
 ## Uses UnSplash APi to find images.
 
