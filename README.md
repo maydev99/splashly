@@ -1,6 +1,6 @@
 # splashly
 
-#Splashly (Flutter)
+# Splashly (Flutter)
 
 ## Uses UnSplash APi to find images.
 
